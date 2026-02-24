@@ -1,5 +1,5 @@
 # 💫 About Me:
-Agentic Engineer & Co-Founder at Mzansi Agentive, buidling innovative agentic solutions for the South African market. I specialize in multi-agent systems, Python, and CrewAI — turning complex business workflows into intelligent, automated experiences. Currently shipping W Chats Marketplace, an AI-powered WhatsApp commerce platform. Open-source contributor and lifelong builder.<br>📍 Johannesburg, South Africa<br>🔧 Python · CrewAI · Multi-Agent Systems · Conversational AI<br>🚀 Building AI that works for African markets
+Agentic Engineer & Co-Founder at Mzansi Agentive, buidling innovative agentic solutions for the South African market. I specialize in multi-agent systems, Python, and CrewAI. Turning complex business workflows into intelligent, automated experiences. Currently shipping W Chats Marketplace one-for-all, and Salgga-trust-engine, an AI-powered WhatsApp commerce platform. Open-source contributor and newly passionate builder.<br>📍 Johannesburg, South Africa<br>🔧 Python · CrewAI · Multi-Agent Systems · Conversational AI<br>🚀 Building AI that works for African markets
 
 
 # 💻 Tech Stack:
@@ -7,6 +7,8 @@ Agentic Engineer & Co-Founder at Mzansi Agentive, buidling innovative agentic so
 
 
 ## 🏆 Open Source Contributor — GSD (Get Shit Done)
-Merged first open-source contribution to the GSD repository, implementing Nyquist validation principles to improve AI coding workflow reliability. The contribution introduced a validation framework that ensures AI-generated code meets quality thresholds before execution — reducing errors and improving developer confidence in agentic coding pipelines.
+Merged first open-source contribution to the GSD repository https://github.com/gsd-build/get-shit-done, a 14.8k star repository used by engineers at Amazon, Google, Shopify, and Webflow.. I identified a gap in the system's theoretical foundation (it solved context rot but not sampling rate rot), framed the solution using signal processing theory, found the one insertion point in the entire GSD lifecycle where the fix has maximum leverage, and delivered it without disrupting a single existing behavior. The contribution closed two open issues (#117 and #122) that the maintainers had flagged as critical and medium priority respectively. 
+
+My new architectural layer shipped Nyquist validation principles to improve AI coding workflow reliability. The contribution introduced a validation framework that ensures AI-generated code meets quality thresholds before execution, reducing errors and improving developer confidence in agentic coding pipelines.
 
 
