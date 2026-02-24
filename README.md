@@ -9,10 +9,7 @@ Agentic Engineer & Co-Founder at Mzansi Agentive, buidling innovative agentic so
 ![](https://nirzak-streak-stats.vercel.app/?user=Bantuson&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bantuson&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bantuson&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Open Source Contributor — GSD (Get Shit Done)
+Merged first open-source contribution to the GSD repository, implementing Nyquist validation principles to improve AI coding workflow reliability. The contribution introduced a validation framework that ensures AI-generated code meets quality thresholds before execution — reducing errors and improving developer confidence in agentic coding pipelines.
 
----
-[![](https://visitcount.itsvg.in/api?id=Bantuson&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
