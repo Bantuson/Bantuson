@@ -1,5 +1,5 @@
 # 💫 About Me:
-Agentic Engineer & Co-Founder at Mzansi Agentive, buidling innovative agentic solutions for the South African market. I specialize in multi-agent systems, Python, and CrewAI. Turning complex business workflows into intelligent, automated experiences. Currently shipping W Chats Marketplace one-for-all, and Salgga-trust-engine, an AI-powered WhatsApp commerce platform. Open-source contributor and newly passionate builder.<br>📍 Johannesburg, South Africa<br>🔧 Python · CrewAI · Multi-Agent Systems · Conversational AI<br>🚀 Building AI that works for African markets
+AI Engineer with business acumen, buidling innovative agentic solutions for the South African market. I specialize in multi-agent systems, Python, and CrewAI. Turning complex business workflows into intelligent, automated experiences. Open-source contributor and newly passionate builder.<br>📍 Johannesburg, South Africa<br>🔧 Python · CrewAI · Multi-Agent Systems · Conversational AI<br>🚀 Building AI that works for African markets
 
 
 # 💻 Tech Stack:
